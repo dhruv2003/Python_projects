@@ -13,4 +13,4 @@ elif BMI <= 34.9:
 elif BMI <= 39.9:
   print("obese nigga")
 else:
-  print("you severely obese nigga ")   
+  print("you severely obese nigga ")
